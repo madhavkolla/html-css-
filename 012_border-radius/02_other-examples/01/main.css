@@ -2,7 +2,7 @@ div {
     width: 200px;
     height: 200px;
     margin: 0 auto;
-    border: 10px solid red;
+    border: 11px solid red;
     background-color: tomato;
     border-radius: 100%;
     /*border-radius: 10% 100%;*/
