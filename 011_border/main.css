@@ -1,11 +1,11 @@
 div {
     width: 100px;
     height: 100px;
-    border: 1px solid red;
+    border: 1px solid #C5BABA;
 }
 
 img {
-    border: 10px groove orangered;
+    border: 10px groove #100A07;
 }
 
 .dogone {
