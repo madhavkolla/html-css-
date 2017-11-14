@@ -9,7 +9,7 @@ div {
 }
 
 img {
-    border: 10px groove orangered;
+    border: 10px groove #0B0B0A;
     border-radius: 100%;
 }
 
@@ -22,5 +22,5 @@ img {
 }
 
 .dogthree {
-    border: 10px double orangered;
+    border: 10px double #120500;
 }
