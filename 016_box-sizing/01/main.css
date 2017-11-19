@@ -9,7 +9,7 @@ div {
 img {
     width: 200px;
     box-sizing: border-box;
-    border: 10px groove orangered;
+    border: 10px groove #262221;
     padding: 20px;
 }
 
