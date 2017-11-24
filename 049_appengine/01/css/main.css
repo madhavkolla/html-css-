@@ -7,7 +7,7 @@ html, body, #atf, h1, h2, div, nav, header {
 
 #atf {
     height: 100vh;
-    background-color: gray;
+    background-color: rgb(204, 155, 155);
     background-image: url(../img/bird.jpg);
     background-size: cover;
     background-position: center;
