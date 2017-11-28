@@ -1,4 +1,6 @@
-html, body, div {
+html,
+body,
+div {
     padding: 0;
     border: 0;
     margin: 0;
@@ -17,14 +19,15 @@ body {
 }
 
 form {
-    border: 10px groove #00C957;
+    border: 10px groove #000803;
     padding: 20px;
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
 
-form, input {
+form,
+input {
     font-size: 1rem;
 }
 
@@ -32,44 +35,25 @@ input {
     padding: .1rem;
 }
 
-form > div {
+form>div {
     margin-bottom: 1rem;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
 }
 
+
 /* checkbox & radio button */
+
 input[type=checkbox],
-input[type=radio]{
+input[type=radio] {
     width: .7rem;
     height: .7rem;
     margin: 0 .3rem;
 }
 
-form > div.frm-cbox {
+form>div.frm-cbox {
     flex-direction: row;
     justify-content: flex-start;
     align-items: center;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
