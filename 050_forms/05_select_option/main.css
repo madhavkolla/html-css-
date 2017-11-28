@@ -2,13 +2,17 @@ html {
     font-size: 2vw;
 }
 
-html, body, form, input {
+html,
+body,
+form,
+input {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
 
-html, body {
+html,
+body {
     height: 100%;
 }
 
@@ -32,7 +36,7 @@ label {
 #submitobey {
     border: 1px solid black;
     font-size: .7rem;
-    background-color: white;
+    background-color: #1C0101;
     padding: .2rem .4rem;
     border-radius: 5px;
     margin-top: .8rem;
@@ -41,4 +45,3 @@ label {
 #submitobey:hover {
     background-color: #00C957;
 }
-
