@@ -21,7 +21,7 @@ header {
     align-items: center;
     /* format*/
     margin-top: 1rem;
-    border: 1px solid red;
+    border: 1px solid #160303;
 }
 
 h1 {
@@ -51,27 +51,3 @@ header nav div {
     width: 25%;
     border-bottom: 2px solid darkgray;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
