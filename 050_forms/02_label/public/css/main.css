@@ -18,7 +18,7 @@ body {
 }
 
 form {
-    border: 10px groove rgb(3, 110, 47);
+    border: 10px groove rgb(0, 14, 6);
     padding: 20px;
     display: flex;
     flex-direction: column;
