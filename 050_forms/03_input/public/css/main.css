@@ -19,7 +19,7 @@ body {
 }
 
 form {
-    border: 10px groove #000803;
+    border: 10px groove #1d3f29;
     padding: 20px;
     display: flex;
     flex-direction: column;
