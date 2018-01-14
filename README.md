@@ -44,7 +44,7 @@ Atom.io
 •	live preview
 
 ```
-![alt text](screenshots/screenshots.png "Description goes here")
+![alt text](C:\Users\madha\Pictures\Screenshots/screenshots.png "Description goes here")
 ```
 
 ## Deployment
