@@ -44,7 +44,7 @@ Atom.io
 •	live preview
 
 ```
-![alt tag](file:///C:/coding/html-css-/059_teaching-website/02_finished/index.html "Description goes here")
+![alt text](screenshots/screenshots.png "Description goes here")
 ```
 
 ## Deployment
