@@ -1,6 +1,6 @@
 # Project Title
 
-One Paragraph of project description goes here
+HTML5 and CSS3
 
 ## Getting Started
 
@@ -8,73 +8,108 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+No prerequisites are required for Learning HTML5 and CSS3.
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
+We used an Integrated Development Environment (IDE) to build our webpages. The IDE we will use in this course is webstorm. We will also introduce you, however, to the IDE Atom in this course as Atom is very popular. When we introduce the IDEs later in the course, we will also discuss the differences between Webstorm and Atom and share with you why we chose Webstorm. You are also able to access the code through github.
 
 ```
-Give the example
-```
+Integrated Development Environments
+This is the work, 
+Integrated Development Environments (IDEs) allow you to write code more easily
+code highlighting
+code formatting
+code completion
+live preview
+Different IDEs
+Webstorm
+Atom.io
+Sublime
+Dreamweaver
+Github
+Important part of any work environment
+We will use it through the command line interface
+Description:
+Choose one editor and get good at it. You don’t need to have all three of these editors, or even watch all three of the editor videos. Just choose one editor. That’s it. Just one. I use webstorm, and in the next video I will tell you why and show it to you. One thing to know: it takes awhile to get good with an IDE. I recently had the experience of driving my friend’s car. And I couldn’t figure out how to do things. I had to stop and spend time trying to find XM radio again. It’s the same way with an IDE. It takes you awhile to be able to drive it quickly and well.
 
-And repeat
+```
+WebStorm
+Live preview
+Getting your webstorm to look like my webstorm
+Description:
+Webstorm is an IDE created by JetBrains. I chose Webstorm because JetBrains also creates an Intellij, and Android Studio is built on top of Intellij. By knowing Webstorm, it’s easier to understand Android Studio. So if you want to build Android Apps somewhere down the line, then using Webstorm is a good choice. I also find Webstorm to provide all of the functionality that I need.
 
 ```
-until finished
+Files
+http://color-themes.com/ - relax your eyes
+Install the theme: http://color-themes.com/?view=help 
+font - Bitstream Vera Sans Mono
+my settings for webstorm which you can import
+install the font
+use “import settings” in webstorm
+live preview
+you will also need this: chrome jetbrains plugin
+Code
+
 ```
+Atom.io
+running from the command line on Mac
+opening your project folder
+live preview
+Description:
+Atom.io is the new kid on the block. It is very compelling. It was created by github. The people at github know what they’re doing. It is now also open source, which means many talented people are helping it grow. There are also a lot of packages you can get for it. 
+
+```
+Sublime
+Sublime was the industry standard in the mid-2000’s
+Now sublime is the old-dog on the block
+It will still work fine, however, have there are stronger arguments in favor of using atom.io and webstorm
+Description:
+While this video talks about Sublime as a “has-been,” the people who make Sublime have recently updated the editor making it a viable option today. 
+
+```
+Dreamweaver
+Dreamweaver was the industry standard for website creation in the late 1990’s and early 2000’s.
+Dreamweaver is a WYSIWYG (weeeseeewigggeeee) tool - what you see is what you get
+It allows you to drag-and-drap items around and dreamweaver writes the code for you
+As dreamweaver writes the code for you, it can be a big crutch that prevents you from writing and learning the code yourself
+It is strongly recommended that you do not use dreamweaver
+Most professional website builders today do not use dreamweaver.
+Description:
+I just have to mention Dreamweaver because I don’t want you to fall in its evil embrace. Dreamweaver is like the drug dealer who gives crack cocaine to people, gets them hooked, then sucks all of the money out of them as their lives are destroyed. Dreamweaver will make you feel very good at first, but ultimately it will make you a pathetic and insecure coder who doesn’t understand anything.
 
 End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+tools
+testing
+Google mobile friendly test
+Google page speed
+craftsmanship
+Google webmaster guidelines
+review
+performance
+My Notes: Critical Rendering Path
+favicon
+http://realfavicongenerator.net/ 
+tools
+http://codepen.io/ 
+emmet cheat sheet
+google fonts
+Autoprefixer
+remote debugging on android
+css lint
+JSON editor
 
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **toddmcleod** - *Initial work* - [PurpleBooth](https://github.com/GoesToEleven)
 
 ## License
 
@@ -82,6 +117,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* Code and projects are built on list of Udemy courses
+* toddmcleod
