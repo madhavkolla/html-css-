@@ -79,25 +79,41 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Running the tests
 
-tools
-testing
-Google mobile friendly test
-Google page speed
-craftsmanship
-Google webmaster guidelines
-review
-performance
-My Notes: Critical Rendering Path
-favicon
+*tools
+
+*testing
+
+*Google mobile friendly test
+
+*Google page speed
+
+*craftsmanship
+
+*Google webmaster guidelines
+
+*review
+
+*performance
+
+*favicon
+
 http://realfavicongenerator.net/ 
-tools
+
+*tools
+
 http://codepen.io/ 
-emmet cheat sheet
-google fonts
-Autoprefixer
-remote debugging on android
-css lint
-JSON editor
+
+*emmet cheat sheet
+
+*google fonts
+
+*Autoprefixer
+
+*remote debugging on android
+
+*css lint
+
+*JSON editor
 
 ## Contributing
 
