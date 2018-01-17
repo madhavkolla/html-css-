@@ -85,7 +85,7 @@ End with an example of getting some data out of the system or using it for a lit
 
 ![screenshot](https://user-images.githubusercontent.com/19499440/35052400-1b3a4162-fb6d-11e7-8b79-5d36b661d921.png)
 
-## Contractor Website
+## Travel Website
 
 ![capture1](https://user-images.githubusercontent.com/19499440/35052682-cf6268b8-fb6d-11e7-8675-ce192c25b435.PNG)
 
@@ -135,7 +135,7 @@ http://codepen.io/
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under Copyright © www.freakingawesome.com 2016  - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
