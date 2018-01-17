@@ -77,6 +77,10 @@ I just have to mention Dreamweaver because I don’t want you to fall in its evi
 
 End with an example of getting some data out of the system or using it for a little demo
 
+<p align="center">
+  <img width="460" height="300" src="C:\Users\madha\Pictures\Screenshots">
+</p>
+
 ## Running the tests
 
 *tools
